@@ -1,4 +1,4 @@
-# FlowManage (User Management System)
+# AdminPort (User Management System)
 
 A full-stack User Management System that provides a seamless interface for user registration, profile updates, and administrative controls. Built with Node.js, Express, MongoDB, and React, this application includes robust authentication, CRUD operations, and an admin dashboard for user management.
 
@@ -66,7 +66,8 @@ A full-stack User Management System that provides a seamless interface for user 
 ### Backend Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/7rajnishsharma/FlowManage.git
+   git clone https://github.com/7rajnishsharma/AdminPort.git
+   cd AdminPort
    cd Backend
    ```
 2. Install dependencies:
