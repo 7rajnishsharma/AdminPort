@@ -3,6 +3,23 @@
 A full-stack User Management System that provides a seamless interface for user registration, profile updates, and administrative controls. Built with Node.js, Express, MongoDB, and React, this application includes robust authentication, CRUD operations, and an admin dashboard for user management.
 
 ---
+## Table of Contents
+1. Features
+   - User Features
+   - Admin Features
+   - Technical Features
+2. Technologies Used
+   - Backend
+   - Frontend
+3. Setup Instructions
+   - Backend Setup
+   - Frontend Setup
+4. API Endpoints
+   - Admin Routes
+   - User Routes
+5. Postman Testing
+6. Visual Representation
+---
 
 ## Features
 
