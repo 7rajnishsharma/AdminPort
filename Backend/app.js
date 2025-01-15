@@ -6,7 +6,7 @@ require("./config/db");
 
 app.use(
   cors({
-    origin: ["http://localhost:3000"],
+    origin: ["https://admin-port.vercel.app"],
     methods: ["GET", "POST", "PUT", "DELETE"],
     credentials: true,
   })
