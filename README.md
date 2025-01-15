@@ -233,8 +233,11 @@ The following routes are accessible by regular users:
 
 1. **User Interface**:
    - Demonstrates user registration, login, profile picture upload, and logout.
+   ![user](https://github.com/user-attachments/assets/83a1ae4c-125b-4e7c-b6c2-67483264fde1)
+
 2. **Admin Interface**:
    - Demonstrates admin login, searching users, updating user details, adding new users, and logout.
+   ![admin](https://github.com/user-attachments/assets/e352df3e-60b4-4378-8c59-c92a50cfc03a)
 
 3. MongoDB collections and documents showcasing user data.
 
