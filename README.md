@@ -242,17 +242,6 @@ The following routes are accessible by regular users:
 
 
 
-
----
-
----
-
-## Bonus Features
-1. Development and production modes.
-2. API test cases for all CRUD operations.
-3. State management with Redux Toolkit.
-4. Error and loading state handling.
-
 ---
 
 
